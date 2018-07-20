@@ -1,0 +1,4 @@
+Fri, 20 Jul 2018 20:18:43 run_sql.py[line:32] INFO sql is :SELECT * FROM hahaha WHERE task_status=4 AND execute_count=6 AND yn=1
+Fri, 20 Jul 2018 20:18:43 run_sql.py[line:27] INFO 数据库连接成功！
+Fri, 20 Jul 2018 20:18:43 run_sql.py[line:47] INFO 数据库连接关闭！
+Fri, 20 Jul 2018 20:18:45 send_email.py[line:30] INFO 邮件发送成功
